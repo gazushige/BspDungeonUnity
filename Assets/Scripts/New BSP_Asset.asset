@@ -12,12 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f89a301d202225c4f8076db0a0dae8f4, type: 3}
   m_Name: New BSP_Asset
   m_EditorClassIdentifier: 
-  gridW: 0
-  gridH: 0
-  minArea: 0
-  maxArea: 0
-  minRoom: 0
-  maxRoom: 0
+  gridW: 50
+  gridH: 50
+  minRoom: 12
+  maxRoom: 16
   offset: 0
   wall: 9632
   room: 9633
